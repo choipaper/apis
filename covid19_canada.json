@@ -1,0 +1,92 @@
+{
+    "update": "2020/03/19(PST)",
+    "canada": [
+        {
+            "province": "BC",
+            "confirmed": 271,
+            "died": 8
+        },
+        {
+            "province": "AB",
+            "confirmed": 119,
+            "died": 0
+        },
+        {
+            "province": "SK",
+            "confirmed": 2,
+            "died": 0
+        },
+        {
+            "province": "MB",
+            "confirmed": 15,
+            "died": 0
+        },
+        {
+            "province": "ON",
+            "confirmed": 257,
+            "died": 2
+        },
+        {
+            "province": "QC",
+            "confirmed": 94,
+            "died": 0
+        },
+        {
+            "province": "NL",
+            "confirmed": 1,
+            "died": 0
+        },
+        {
+            "province": "NB",
+            "confirmed": 2,
+            "died": 0
+        },
+        {
+            "province": "NS",
+            "confirmed": 5,
+            "died": 0
+        },
+        {
+            "province": "PE",
+            "confirmed": 1,
+            "died": 0
+        },
+        {
+            "province": "YT",
+            "confirmed": 0,
+            "died": 0
+        },
+        {
+            "province": "NT",
+            "confirmed": 0,
+            "died": 0
+        },
+        {
+            "province": "NU",
+            "confirmed": 0,
+            "died": 0
+        },
+        {
+            "province": "Repatriated Travellers",
+            "confirmed": 9,
+            "died": 0
+        }
+    ],
+    "general_info": {
+            "info": "Coronaviruses are a large family of viruses. They can cause diseases ranging from the common cold to more severe diseases such as Severe Acute Respiratory Syndrome (SARS) and Middle East Respiratory Syndrome (MERS-CoV). Some transmit easily from person to person while others do not. COVID-19 is a new disease that has not been previously identified in humans.",
+            "symptoms": {
+                    "general_info": "Those who are confirmed with COVID-19 may have little to no symptoms. You may not know you have symptoms of COVID-19 because they are similar to a cold or flu. Symptoms may take up to 14 days to appear after exposure to COVID-19. This is the longest known infectious period for this disease.",
+                    "symptoms": [
+                        "fever",
+                        "cough",
+                        "difficulty breathing",
+                        "pneumonia in both lungs"
+                    ]
+            },
+            "canadaFAQ_Link": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/frequently-asked-questions.html",
+            "help_gov":{
+                "contact": "1-833-784-4397",
+                "email": "phac.info.aspc@canada.ca"
+            }
+    }
+}
