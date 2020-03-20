@@ -8,28 +8,28 @@
         },
         {
             "province": "AB",
-            "confirmed": 119,
-            "died": 0
+            "confirmed": 146,
+            "died": 1
         },
         {
             "province": "SK",
-            "confirmed": 2,
+            "confirmed": 8,
             "died": 0
         },
         {
             "province": "MB",
-            "confirmed": 15,
+            "confirmed": 17,
             "died": 0
         },
         {
             "province": "ON",
-            "confirmed": 257,
+            "confirmed": 258,
             "died": 2
         },
         {
             "province": "QC",
-            "confirmed": 94,
-            "died": 0
+            "confirmed": 139,
+            "died": 1
         },
         {
             "province": "NL",
@@ -38,7 +38,7 @@
         },
         {
             "province": "NB",
-            "confirmed": 2,
+            "confirmed": 7,
             "died": 0
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "province": "PE",
-            "confirmed": 1,
+            "confirmed": 2,
             "died": 0
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "province": "Repatriated Travellers",
-            "confirmed": 9,
+            "confirmed": 10,
             "died": 0
         }
     ],
