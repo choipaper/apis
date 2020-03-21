@@ -1,14 +1,14 @@
 {
-    "update": "2020/03/19(PST)",
+    "update": "2020/03/20(PST)",
     "canada": [
         {
             "province": "BC",
-            "confirmed": 271,
-            "died": 8
+            "confirmed": 348,
+            "died": 9
         },
         {
             "province": "AB",
-            "confirmed": 146,
+            "confirmed": 195,
             "died": 1
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "province": "ON",
-            "confirmed": 258,
+            "confirmed": 311,
             "died": 2
         },
         {
@@ -33,7 +33,7 @@
         },
         {
             "province": "NL",
-            "confirmed": 1,
+            "confirmed": 3,
             "died": 0
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "province": "Repatriated Travellers",
-            "confirmed": 10,
+            "confirmed": 13,
             "died": 0
         }
     ],
