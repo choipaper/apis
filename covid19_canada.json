@@ -3,52 +3,52 @@
     "canada": [
         {
             "province": "BC",
-            "confirmed": 348,
-            "died": 9
+            "confirmed": 424,
+            "died": 10
         },
         {
             "province": "AB",
-            "confirmed": 195,
+            "confirmed": 259,
             "died": 1
         },
         {
             "province": "SK",
-            "confirmed": 8,
+            "confirmed": 33,
             "died": 0
         },
         {
             "province": "MB",
-            "confirmed": 17,
+            "confirmed": 20,
             "died": 0
         },
         {
             "province": "ON",
-            "confirmed": 311,
-            "died": 2
+            "confirmed": 425,
+            "died": 5
         },
         {
             "province": "QC",
-            "confirmed": 139,
-            "died": 1
+            "confirmed": 221,
+            "died": 4
         },
         {
             "province": "NL",
-            "confirmed": 3,
+            "confirmed": 4,
             "died": 0
         },
         {
             "province": "NB",
-            "confirmed": 7,
+            "confirmed": 11,
             "died": 0
         },
         {
             "province": "NS",
-            "confirmed": 5,
+            "confirmed": 28,
             "died": 0
         },
         {
             "province": "PE",
-            "confirmed": 2,
+            "confirmed": 3,
             "died": 0
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "province": "NT",
-            "confirmed": 0,
+            "confirmed": 1,
             "died": 0
         },
         {
