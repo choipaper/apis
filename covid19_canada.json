@@ -13,22 +13,22 @@
         },
         {
             "province": "SK",
-            "confirmed": 65,
+            "confirmed": 72,
             "died": 0
         },
         {
             "province": "MB",
-            "confirmed": 20,
+            "confirmed": 21,
             "died": 0
         },
         {
             "province": "ON",
-            "confirmed": 489,
-            "died": 6
+            "confirmed": 573,
+            "died": 7
         },
         {
             "province": "QC",
-            "confirmed": 628,
+            "confirmed": 1013,
             "died": 4
         },
         {
@@ -38,12 +38,12 @@
         },
         {
             "province": "NB",
-            "confirmed": 17,
+            "confirmed": 18,
             "died": 0
         },
         {
             "province": "NS",
-            "confirmed": 41,
+            "confirmed": 51,
             "died": 0
         },
         {
