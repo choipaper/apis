@@ -3,13 +3,13 @@
     "canada": [
         {
             "province": "BC",
-            "confirmed": 472,
+            "confirmed": 617,
             "died": 13
         },
         {
             "province": "AB",
-            "confirmed": 301,
-            "died": 1
+            "confirmed": 358,
+            "died": 2
         },
         {
             "province": "SK",
@@ -23,8 +23,8 @@
         },
         {
             "province": "ON",
-            "confirmed": 573,
-            "died": 7
+            "confirmed": 572,
+            "died": 8
         },
         {
             "province": "QC",
