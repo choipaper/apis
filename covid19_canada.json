@@ -1,5 +1,5 @@
 {
-    "update": "2020/03/20(PST)",
+    "update": "2020/03/26 10am(PST)",
     "canada": [
         {
             "province": "BC",
@@ -18,12 +18,12 @@
         },
         {
             "province": "MB",
-            "confirmed": 35,
+            "confirmed": 36,
             "died": 0
         },
         {
             "province": "ON",
-            "confirmed": 688,
+            "confirmed": 837,
             "died": 13
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "province": "NS",
-            "confirmed": 68,
+            "confirmed": 73,
             "died": 0
         },
         {
