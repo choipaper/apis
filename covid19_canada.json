@@ -1,49 +1,49 @@
 {
-    "update": "2020/04/02 8pm(PST)",
+    "update": "2020/04/03 8pm(PST)",
     "canada": [
         {
             "province": "BC",
-            "confirmed": 1121,
-            "died": 31
+            "confirmed": 1174,
+            "died": 35
         },
         {
             "province": "AB",
-            "confirmed": 968,
-            "died": 13
+            "confirmed": 1075,
+            "died": 18
         },
         {
             "province": "SK",
-            "confirmed": 206,
+            "confirmed": 220,
             "died": 3
         },
         {
             "province": "MB",
-            "confirmed": 167,
-            "died": 1
+            "confirmed": 182,
+            "died": 2
         },
         {
             "province": "ON",
-            "confirmed": 2793,
-            "died": 53
+            "confirmed": 3255,
+            "died": 67
         },
         {
             "province": "QC",
-            "confirmed": 5518,
-            "died": 36
+            "confirmed": 6101,
+            "died": 61
         },
         {
             "province": "NL",
-            "confirmed": 183,
+            "confirmed": 195,
             "died": 1
         },
         {
             "province": "NB",
-            "confirmed": 91,
+            "confirmed": 95,
             "died": 0
         },
         {
             "province": "NS",
-            "confirmed": 193,
+            "confirmed": 207,
             "died": 0
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "province": "NT",
-            "confirmed": 2,
+            "confirmed": 4,
             "died": 0
         },
         {
